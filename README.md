@@ -56,3 +56,8 @@ This assignment demonstrates that:
 Linear models underfit non-linear data
 Polynomial models can capture curvature
 Excessive complexity leads to overfitting
+
+
+r2_score :
+ the linear value  0.987
+ the poly value  0.997
